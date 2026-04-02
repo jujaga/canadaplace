@@ -1,0 +1,15 @@
+{
+    "faction": "Place Canada",
+    "contact": "@nosadbehappy",
+    "templates": [
+        {
+            "name": "flag",
+            "sources": [
+                "https://github.com/NoSadBeHappy/canadaplace/blob/main/PlaceCanada.png?raw=true"
+            ],
+            "x": 81,
+            "y": 96
+        }
+    ],
+    "whitelist": []
+}
