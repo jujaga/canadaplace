@@ -9,6 +9,14 @@
       ],
       "x": 84,
       "y": 96
+    },
+   {
+      "name": "goose",
+      "sources": [
+        "https://raw.githubusercontent.com/NoSadBeHappy/canadaplace/refs/heads/main/Goose.png"
+      ],
+      "x": 152,
+      "y": 248
     }
   ],
   "whitelist": []
