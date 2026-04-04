@@ -26,6 +26,14 @@
       "x": 62,
       "y": 97
     }
+    {
+      "name": "no kings",
+      "sources": [
+        "https://raw.githubusercontent.com/NoSadBeHappy/canadaplace/refs/heads/main/assets/nokings.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
   ],
   "whitelist": []
 }
